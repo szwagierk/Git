@@ -1,0 +1,29 @@
+[33mcommit 23eda697636085837aa37798d0d51bb70881fb56[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Nikodem Niciejewski <szwagierk2137@gmail.com>
+Date:   Sat Aug 20 12:16:07 2022 +0200
+
+    Czwart commit dodajemy do stagingu i commitujemy
+
+[33mcommit 1ebcf23d4296cf9817f87a6e356f35d1443d0d8a[m
+Author: Nikodem Niciejewski <szwagierk2137@gmail.com>
+Date:   Sat Aug 20 12:14:46 2022 +0200
+
+    Trzeci commit - modyfikacja plku 3.txt
+
+[33mcommit fe0e5cdbc661b1d1b93247299730035d490ce18c[m
+Author: Nikodem Niciejewski <szwagierk2137@gmail.com>
+Date:   Sat Aug 20 12:13:33 2022 +0200
+
+    Drugi commit dodajemy 3 nowe pliki
+
+[33mcommit 6391b7e22fe044b59e6e1233e0153beb1409a988[m
+Author: szwagierk <szwagierk2137@gmail.com>
+Date:   Sat Aug 20 12:08:07 2022 +0200
+
+    Dodajemy pierwszy plik dzowg.cpp
+
+[33mcommit 4021167b4fdabbed75e0002f30fb75d40d874566[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: szwagierk <szwagierk2137@gmail.com>
+Date:   Fri Aug 19 20:55:36 2022 +0200
+
+    dzowg
